@@ -76,4 +76,3 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 ---
 
 **Note**: Requires DeepSeek chat interface (chat.deepseek.com) to function. Not affiliated with DeepSeek.
-```
