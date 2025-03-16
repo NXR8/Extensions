@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
   "name": "DeepSeek Direction Adjuster",
-  "version": "1.2",
-  "description": "Adds direction controls from 'RTL' and 'LTR' to blocks in DeepSeek chat.",
+  "version": "3.3",
+  "description": "Adds direction controls ('RTL' and 'LTR') to blocks in DeepSeek chat.",
   "author": "NXR8",  
-  "homepage_url": "https://github.com/NXR8/Extensions/DeepSeek-Direction-Adjuster",  
+  "homepage_url": "https://github.com/NXR8/Extensions/tree/main/DeepSeek-Direction-Adjuster",  
   "developer": {
     "name": "NXR8",
     "url": "https://NXR8.ME/"
@@ -21,6 +21,11 @@
     "16": "icon.png",
     "48": "icon.png",
     "128": "icon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "nezar@nxr8.me"
+    }
   }
 }
 
