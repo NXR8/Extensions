@@ -114,8 +114,8 @@
     }
 
     function addButtons() {
-        document.querySelectorAll('.f9bf7997.d7dc56a8.c05b5566, .f9bf7997.c05b5566').forEach(block => {
-            const dsFlexContainer = block.querySelector('.ds-flex.abe97156');
+        document.querySelectorAll('._4f9bf79.d7dc56a8._43c05b5, ._4f9bf79._43c05b5').forEach(block => {
+            const dsFlexContainer = block.querySelector('.ds-flex._965abe9');
 
             if (dsFlexContainer && !dsFlexContainer.hasAttribute('data-processed')) {
                 dsFlexContainer.setAttribute('data-processed', 'true');
